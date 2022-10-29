@@ -1,6 +1,5 @@
 Data science and AI enthusiastic
 How to reach me: niloo718@gmail.com
-Telegram: nillbahrami
 
 <!---
 nillbahrami/nillbahrami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
